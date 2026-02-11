@@ -5,6 +5,6 @@
 
 ### Техническая часть сервера
 
-* **Ip** — <span style="color: #4ade80;">Скоро</span>
-* **Версия** — <span style="color: #60a5fa;">1.21.10</span>
+* **Ip** — <span style="color: #4ade80;">play.croww.space</span>
+* **Версия** — <span style="color: #60a5fa;">1.21.11</span>
 * **Обязательные моды** — [Fabric API](https://modrinth.com/mod/fabric-api), [Simple Voice Chat](https://modrinth.com/plugin/simple-voice-chat), [Voice Messages](https://modrinth.com/plugin/voicemessages)
