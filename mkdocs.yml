@@ -28,15 +28,13 @@ extra_css:
 
 nav:
   - 👋 Добро пожаловать!: index.md
-  - ℹ️ ИНФОРМАЦИЯ:
-    - 📖 Правила: rules.md
-    - ⚒️ Крафты: crafts.md
-    - ⌨️ Команды: commands.md
-    - 📈 Фишки:
-        - index: features.md
-        - Показать ник: fishki/pokazat-nik.md
-        - Радио: fishki/radio.md
-        # ... остальные подпункты
-    - 🔌 Плагины: plugins.md
+  - 📖 Правила: rules.md
+  - ⚒️ Крафты: crafts.md
+  - ⌨️ Команды: commands.md
+  - 📈 Фишки:
+      - index: features.md
+      - Показать ник: fishki/pokazat-nik.md
+      - Радио: fishki/radio.md
+  - 🔌 Плагины: plugins.md
   - 💬 Discord: https://discord.com/invite/fKPNDYVxjB
   - ✈️ Telegram: https://t.me/croww_mc
