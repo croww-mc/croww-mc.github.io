@@ -3,14 +3,25 @@ site_url: https://wiki.croww.space
 
 theme:
   name: material
+  language: ru
   palette:
     scheme: slate
+    primary: black
   features:
     - navigation.tabs
     - navigation.top
     - search.highlight
     - content.code.copy
+    - navigation.sections 
+    - content.tooltips
 
-nav:
-  - Главная: index.md
-  - Установка: installation.md
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+
+extra_css:
+  - stylesheets/extra.css 
