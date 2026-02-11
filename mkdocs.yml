@@ -1,0 +1,16 @@
+site_name: Project Wiki
+site_url: https://wiki.croww.space
+
+theme:
+  name: material
+  palette:
+    scheme: slate
+  features:
+    - navigation.tabs
+    - navigation.top
+    - search.highlight
+    - content.code.copy
+
+nav:
+  - Главная: index.md
+  - Установка: installation.md
